@@ -1,0 +1,16 @@
+{
+  "name": "paperclip-errata",
+  "version": "1.0.0",
+  "description": "你的当代生活勘误表",
+  "main": "index.js",
+  "repository": "https://github.com/gaoliang/paperclip-errata",
+  "author": "gaoliang",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
