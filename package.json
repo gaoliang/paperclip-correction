@@ -1,9 +1,9 @@
 {
-  "name": "paperclip-errata",
+  "name": "paperclip-correction",
   "version": "1.0.0",
-  "description": "你的当代生活勘误表",
+  "description": "你的当代生活说明书勘误",
   "main": "index.js",
-  "repository": "https://github.com/gaoliang/paperclip-errata",
+  "repository": "https://github.com/gaoliang/paperclip-correction",
   "author": "gaoliang",
   "license": "MIT",
   "devDependencies": {
